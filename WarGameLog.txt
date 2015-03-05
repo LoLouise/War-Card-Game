@@ -1,0 +1,1622 @@
+New Game
+Addition War
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 1C
+Player 1: 11S
+Player 2: 3H
+Player 2: 1D
+Player 1 wins round 1
+Player 1: 28 Cards
+Player 2: 24 Cards
+Player 1: 28 Cards
+Player 2: 24 Cards
+Player 1: 13D
+Player 1: 8C
+Player 2: 1H
+Player 2: 12D
+Player 1 wins round 2
+Player 1: 30 Cards
+Player 2: 22 Cards
+Player 1: 30 Cards
+Player 2: 22 Cards
+Player 1: 4C
+Player 1: 3D
+Player 2: 1S
+Player 2: 4H
+Player 1 wins round 3
+Player 1: 32 Cards
+Player 2: 20 Cards
+Player 1: 32 Cards
+Player 2: 20 Cards
+Player 1: 2S
+Player 1: 4D
+Player 2: 10D
+Player 2: 3S
+Player 2 wins round 4
+Player 1: 30 Cards
+Player 2: 22 Cards
+New Game
+Round 1
+Louise: 26 Cards
+David: 26 Cards
+Louise: 9D
+David: 11C
+David wins round 1
+Louise: 25 Cards
+David: 27 Cards
+Round 2
+Louise: 25 Cards
+David: 27 Cards
+Louise: 10H
+David: 6D
+Louise wins round 2
+Louise: 26 Cards
+David: 26 Cards
+Round 3
+Louise: 26 Cards
+David: 26 Cards
+Louise: 13S
+David: 7H
+Louise wins round 3
+Louise: 27 Cards
+David: 25 Cards
+Round 4
+Louise: 27 Cards
+David: 25 Cards
+Louise: 13D
+David: 5H
+Louise wins round 4
+Louise: 28 Cards
+David: 24 Cards
+Round 5
+Louise: 28 Cards
+David: 24 Cards
+Louise: 9S
+David: 1D
+Louise wins round 5
+Louise: 29 Cards
+David: 23 Cards
+Round 6
+Louise: 29 Cards
+David: 23 Cards
+Louise: 1C
+David: 8H
+Louise wins round 6
+Louise: 30 Cards
+David: 22 Cards
+Round 7
+Louise: 30 Cards
+David: 22 Cards
+Louise: 2H
+David: 6H
+David wins round 7
+Louise: 29 Cards
+David: 23 Cards
+Round 8
+Louise: 29 Cards
+David: 23 Cards
+Louise: 3C
+David: 7D
+David wins round 8
+Louise: 28 Cards
+David: 24 Cards
+Round 9
+Louise: 28 Cards
+David: 24 Cards
+Louise: 2D
+David: 5C
+David wins round 9
+Louise: 27 Cards
+David: 25 Cards
+Round 10
+Louise: 27 Cards
+David: 25 Cards
+Louise: 3H
+David: 5S
+David wins round 10
+Louise: 26 Cards
+David: 26 Cards
+Round 11
+Louise: 26 Cards
+David: 26 Cards
+Louise: 6S
+David: 6C
+WAR
+Louise: XX
+Louise: 11H
+David: XX
+David: 8D
+Louise wins the war
+Louise wins round 11
+Louise: 29 Cards
+David: 23 Cards
+Round 12
+Louise: 29 Cards
+David: 23 Cards
+Louise: 7S
+David: 11D
+David wins round 12
+Louise: 28 Cards
+David: 24 Cards
+Round 13
+Louise: 28 Cards
+David: 24 Cards
+Louise: 2S
+David: 9C
+David wins round 13
+Louise: 27 Cards
+David: 25 Cards
+Round 14
+Louise: 27 Cards
+David: 25 Cards
+Louise: 12S
+David: 5D
+Louise wins round 14
+Louise: 28 Cards
+David: 24 Cards
+Round 15
+Louise: 28 Cards
+David: 24 Cards
+Louise: 9H
+David: 2C
+Louise wins round 15
+Louise: 29 Cards
+David: 23 Cards
+Round 16
+Louise: 29 Cards
+David: 23 Cards
+Louise: 3S
+David: 10S
+David wins round 16
+Louise: 28 Cards
+David: 24 Cards
+Round 17
+Louise: 28 Cards
+David: 24 Cards
+Louise: 12D
+David: 8C
+Louise wins round 17
+Louise: 29 Cards
+David: 23 Cards
+Round 18
+Louise: 29 Cards
+David: 23 Cards
+Louise: 8S
+David: 4H
+Louise wins round 18
+Louise: 30 Cards
+David: 22 Cards
+Round 19
+Louise: 30 Cards
+David: 22 Cards
+Louise: 1S
+David: 10C
+Louise wins round 19
+Louise: 31 Cards
+David: 21 Cards
+Round 20
+Louise: 31 Cards
+David: 21 Cards
+Louise: 12C
+David: 4S
+Louise wins round 20
+Louise: 32 Cards
+David: 20 Cards
+Round 21
+Louise: 32 Cards
+David: 20 Cards
+Louise: 3D
+David: 4D
+David wins round 21
+Louise: 31 Cards
+David: 21 Cards
+Round 22
+Louise: 31 Cards
+David: 21 Cards
+Louise: 4C
+David: 12H
+David wins round 22
+Louise: 30 Cards
+David: 22 Cards
+Round 23
+Louise: 30 Cards
+David: 22 Cards
+Louise: 7C
+David: 1H
+Louise wins round 23
+Louise: 31 Cards
+David: 21 Cards
+Round 24
+Louise: 31 Cards
+David: 21 Cards
+Louise: 13H
+David: 10D
+Louise wins round 24
+Louise: 32 Cards
+David: 20 Cards
+Round 25
+Louise: 32 Cards
+David: 20 Cards
+Louise: 10H
+David: 9D
+Louise wins round 25
+Louise: 33 Cards
+David: 19 Cards
+Round 26
+Louise: 33 Cards
+David: 19 Cards
+Louise: 6D
+David: 11C
+David wins round 26
+Louise: 32 Cards
+David: 20 Cards
+Round 27
+Louise: 32 Cards
+David: 20 Cards
+Louise: 13S
+David: 2H
+Louise wins round 27
+Louise: 33 Cards
+David: 19 Cards
+Round 28
+Louise: 33 Cards
+David: 19 Cards
+Louise: 7H
+David: 6H
+Louise wins round 28
+Louise: 34 Cards
+David: 18 Cards
+Round 29
+Louise: 34 Cards
+David: 18 Cards
+Louise: 13D
+David: 3C
+Louise wins round 29
+Louise: 35 Cards
+David: 17 Cards
+Round 30
+Louise: 35 Cards
+David: 17 Cards
+Louise: 5H
+David: 7D
+David wins round 30
+Louise: 34 Cards
+David: 18 Cards
+Round 31
+Louise: 34 Cards
+David: 18 Cards
+Louise: 9S
+David: 2D
+Louise wins round 31
+Louise: 35 Cards
+David: 17 Cards
+Round 32
+Louise: 35 Cards
+David: 17 Cards
+Louise: 1D
+David: 5C
+Louise wins round 32
+Louise: 36 Cards
+David: 16 Cards
+Round 33
+Louise: 36 Cards
+David: 16 Cards
+Louise: 1C
+David: 3H
+Louise wins round 33
+Louise: 37 Cards
+David: 15 Cards
+Round 34
+Louise: 37 Cards
+David: 15 Cards
+Louise: 8H
+David: 5S
+Louise wins round 34
+Louise: 38 Cards
+David: 14 Cards
+Round 35
+Louise: 38 Cards
+David: 14 Cards
+Louise: 6S
+David: 7S
+David wins round 35
+Louise: 37 Cards
+David: 15 Cards
+Round 36
+Louise: 37 Cards
+David: 15 Cards
+Louise: 6C
+David: 11D
+David wins round 36
+Louise: 36 Cards
+David: 16 Cards
+Round 37
+Louise: 36 Cards
+David: 16 Cards
+Louise: 11S
+David: 2S
+Louise wins round 37
+Louise: 37 Cards
+David: 15 Cards
+Round 38
+Louise: 37 Cards
+David: 15 Cards
+Louise: 11H
+David: 9C
+Louise wins round 38
+Louise: 38 Cards
+David: 14 Cards
+Round 39
+Louise: 38 Cards
+David: 14 Cards
+Louise: 13C
+David: 3S
+Louise wins round 39
+Louise: 39 Cards
+David: 13 Cards
+Round 40
+Louise: 39 Cards
+David: 13 Cards
+Louise: 8D
+David: 10S
+David wins round 40
+Louise: 38 Cards
+David: 14 Cards
+Round 41
+Louise: 38 Cards
+David: 14 Cards
+Louise: 12S
+David: 3D
+Louise wins round 41
+Louise: 39 Cards
+David: 13 Cards
+Round 42
+Louise: 39 Cards
+David: 13 Cards
+Louise: 5D
+David: 4D
+Louise wins round 42
+Louise: 40 Cards
+David: 12 Cards
+Round 43
+Louise: 40 Cards
+David: 12 Cards
+Louise: 9H
+David: 4C
+Louise wins round 43
+Louise: 41 Cards
+David: 11 Cards
+Round 44
+Louise: 41 Cards
+David: 11 Cards
+Louise: 2C
+David: 12H
+David wins round 44
+Louise: 40 Cards
+David: 12 Cards
+Round 45
+Louise: 40 Cards
+David: 12 Cards
+Louise: 12D
+David: 6D
+Louise wins round 45
+Louise: 41 Cards
+David: 11 Cards
+Round 46
+Louise: 41 Cards
+David: 11 Cards
+Louise: 8C
+David: 11C
+David wins round 46
+Louise: 40 Cards
+David: 12 Cards
+Round 47
+Louise: 40 Cards
+David: 12 Cards
+Louise: 8S
+David: 5H
+Louise wins round 47
+Louise: 41 Cards
+David: 11 Cards
+Round 48
+Louise: 41 Cards
+David: 11 Cards
+Louise: 4H
+David: 7D
+David wins round 48
+Louise: 40 Cards
+David: 12 Cards
+Round 49
+Louise: 40 Cards
+David: 12 Cards
+Louise: 1S
+David: 6S
+Louise wins round 49
+Louise: 41 Cards
+David: 11 Cards
+Round 50
+Louise: 41 Cards
+David: 11 Cards
+Louise: 10C
+David: 7S
+Louise wins round 50
+Louise: 42 Cards
+David: 10 Cards
+Round 51
+Louise: 42 Cards
+David: 10 Cards
+Louise: 12C
+David: 6C
+Louise wins round 51
+Louise: 43 Cards
+David: 9 Cards
+Round 52
+Louise: 43 Cards
+David: 9 Cards
+Louise: 4S
+David: 11D
+David wins round 52
+Louise: 42 Cards
+David: 10 Cards
+Round 53
+Louise: 42 Cards
+David: 10 Cards
+Louise: 7C
+David: 8D
+David wins round 53
+Louise: 41 Cards
+David: 11 Cards
+Round 54
+Louise: 41 Cards
+David: 11 Cards
+Louise: 1H
+David: 10S
+Louise wins round 54
+Louise: 42 Cards
+David: 10 Cards
+Round 55
+Louise: 42 Cards
+David: 10 Cards
+Louise: 13H
+David: 2C
+Louise wins round 55
+Louise: 43 Cards
+David: 9 Cards
+Round 56
+Louise: 43 Cards
+David: 9 Cards
+Louise: 10D
+David: 12H
+David wins round 56
+Louise: 42 Cards
+David: 10 Cards
+Round 57
+Louise: 42 Cards
+David: 10 Cards
+Louise: 10H
+David: 8C
+Louise wins round 57
+Louise: 43 Cards
+David: 9 Cards
+Round 58
+Louise: 43 Cards
+David: 9 Cards
+Louise: 9D
+David: 11C
+David wins round 58
+Louise: 42 Cards
+David: 10 Cards
+Round 59
+Louise: 42 Cards
+David: 10 Cards
+Louise: 13S
+David: 4H
+Louise wins round 59
+Louise: 43 Cards
+David: 9 Cards
+Round 60
+Louise: 43 Cards
+David: 9 Cards
+Louise: 2H
+David: 7D
+David wins round 60
+Louise: 42 Cards
+David: 10 Cards
+Round 61
+Louise: 42 Cards
+David: 10 Cards
+Louise: 7H
+David: 4S
+Louise wins round 61
+Louise: 43 Cards
+David: 9 Cards
+Round 62
+Louise: 43 Cards
+David: 9 Cards
+Louise: 6H
+David: 11D
+David wins round 62
+Louise: 42 Cards
+David: 10 Cards
+Round 63
+Louise: 42 Cards
+David: 10 Cards
+Louise: 13D
+David: 7C
+Louise wins round 63
+Louise: 43 Cards
+David: 9 Cards
+Round 64
+Louise: 43 Cards
+David: 9 Cards
+Louise: 3C
+David: 8D
+David wins round 64
+Louise: 42 Cards
+David: 10 Cards
+Round 65
+Louise: 42 Cards
+David: 10 Cards
+Louise: 9S
+David: 10D
+David wins round 65
+Louise: 41 Cards
+David: 11 Cards
+Round 66
+Louise: 41 Cards
+David: 11 Cards
+Louise: 2D
+David: 12H
+David wins round 66
+Louise: 40 Cards
+David: 12 Cards
+Round 67
+Louise: 40 Cards
+David: 12 Cards
+Louise: 1D
+David: 9D
+Louise wins round 67
+Louise: 41 Cards
+David: 11 Cards
+Round 68
+Louise: 41 Cards
+David: 11 Cards
+Louise: 5C
+David: 11C
+David wins round 68
+Louise: 40 Cards
+David: 12 Cards
+Round 69
+Louise: 40 Cards
+David: 12 Cards
+Louise: 1C
+David: 2H
+Louise wins round 69
+Louise: 41 Cards
+David: 11 Cards
+Round 70
+Louise: 41 Cards
+David: 11 Cards
+Louise: 3H
+David: 7D
+David wins round 70
+Louise: 40 Cards
+David: 12 Cards
+Round 71
+Louise: 40 Cards
+David: 12 Cards
+Louise: 8H
+David: 6H
+Louise wins round 71
+Louise: 41 Cards
+David: 11 Cards
+Round 72
+Louise: 41 Cards
+David: 11 Cards
+Louise: 5S
+David: 11D
+David wins round 72
+Louise: 40 Cards
+David: 12 Cards
+Round 73
+Louise: 40 Cards
+David: 12 Cards
+Louise: 11S
+David: 3C
+Louise wins round 73
+Louise: 41 Cards
+David: 11 Cards
+Round 74
+Louise: 41 Cards
+David: 11 Cards
+Louise: 2S
+David: 8D
+David wins round 74
+Louise: 40 Cards
+David: 12 Cards
+Round 75
+Louise: 40 Cards
+David: 12 Cards
+Louise: 11H
+David: 9S
+Louise wins round 75
+Louise: 41 Cards
+David: 11 Cards
+Round 76
+Louise: 41 Cards
+David: 11 Cards
+Louise: 9C
+David: 10D
+David wins round 76
+Louise: 40 Cards
+David: 12 Cards
+Round 77
+Louise: 40 Cards
+David: 12 Cards
+Louise: 13C
+David: 2D
+Louise wins round 77
+Louise: 41 Cards
+David: 11 Cards
+Round 78
+Louise: 41 Cards
+David: 11 Cards
+Louise: 3S
+David: 12H
+David wins round 78
+Louise: 40 Cards
+David: 12 Cards
+Round 79
+Louise: 40 Cards
+David: 12 Cards
+Louise: 12S
+David: 5C
+Louise wins round 79
+Louise: 41 Cards
+David: 11 Cards
+Round 80
+Louise: 41 Cards
+David: 11 Cards
+Louise: 3D
+David: 11C
+David wins round 80
+Louise: 40 Cards
+David: 12 Cards
+Round 81
+Louise: 40 Cards
+David: 12 Cards
+Louise: 5D
+David: 3H
+Louise wins round 81
+Louise: 41 Cards
+David: 11 Cards
+Round 82
+Louise: 41 Cards
+David: 11 Cards
+Louise: 4D
+David: 7D
+David wins round 82
+Louise: 40 Cards
+David: 12 Cards
+Round 83
+Louise: 40 Cards
+David: 12 Cards
+Louise: 9H
+David: 5S
+Louise wins round 83
+Louise: 41 Cards
+David: 11 Cards
+Round 84
+Louise: 41 Cards
+David: 11 Cards
+Louise: 4C
+David: 11D
+David wins round 84
+Louise: 40 Cards
+David: 12 Cards
+Round 85
+Louise: 40 Cards
+David: 12 Cards
+Louise: 12D
+David: 2S
+Louise wins round 85
+Louise: 41 Cards
+David: 11 Cards
+Round 86
+Louise: 41 Cards
+David: 11 Cards
+Louise: 6D
+David: 8D
+David wins round 86
+Louise: 40 Cards
+David: 12 Cards
+Round 87
+Louise: 40 Cards
+David: 12 Cards
+Louise: 8S
+David: 9C
+David wins round 87
+Louise: 39 Cards
+David: 13 Cards
+Round 88
+Louise: 39 Cards
+David: 13 Cards
+Louise: 5H
+David: 10D
+David wins round 88
+Louise: 38 Cards
+David: 14 Cards
+Round 89
+Louise: 38 Cards
+David: 14 Cards
+Louise: 1S
+David: 3S
+Louise wins round 89
+Louise: 39 Cards
+David: 13 Cards
+Round 90
+Louise: 39 Cards
+David: 13 Cards
+Louise: 6S
+David: 12H
+David wins round 90
+Louise: 38 Cards
+David: 14 Cards
+Round 91
+Louise: 38 Cards
+David: 14 Cards
+Louise: 10C
+David: 3D
+Louise wins round 91
+Louise: 39 Cards
+David: 13 Cards
+Round 92
+Louise: 39 Cards
+David: 13 Cards
+Louise: 7S
+David: 11C
+David wins round 92
+Louise: 38 Cards
+David: 14 Cards
+Round 93
+Louise: 38 Cards
+David: 14 Cards
+Louise: 12C
+David: 4D
+Louise wins round 93
+Louise: 39 Cards
+David: 13 Cards
+Round 94
+Louise: 39 Cards
+David: 13 Cards
+Louise: 6C
+David: 7D
+David wins round 94
+Louise: 38 Cards
+David: 14 Cards
+Round 95
+Louise: 38 Cards
+David: 14 Cards
+Louise: 1H
+David: 4C
+Louise wins round 95
+Louise: 39 Cards
+David: 13 Cards
+Round 96
+Louise: 39 Cards
+David: 13 Cards
+Louise: 10S
+David: 11D
+David wins round 96
+Louise: 38 Cards
+David: 14 Cards
+Round 97
+Louise: 38 Cards
+David: 14 Cards
+Louise: 13H
+David: 6D
+Louise wins round 97
+Louise: 39 Cards
+David: 13 Cards
+Round 98
+Louise: 39 Cards
+David: 13 Cards
+Louise: 2C
+David: 8D
+David wins round 98
+Louise: 38 Cards
+David: 14 Cards
+Round 99
+Louise: 38 Cards
+David: 14 Cards
+Louise: 10H
+David: 8S
+Louise wins round 99
+Louise: 39 Cards
+David: 13 Cards
+Round 100
+Louise: 39 Cards
+David: 13 Cards
+Louise: 8C
+David: 9C
+David wins round 100
+Louise: 38 Cards
+David: 14 Cards
+Round 101
+Louise: 38 Cards
+David: 14 Cards
+Louise: 13S
+David: 5H
+Louise wins round 101
+Louise: 39 Cards
+David: 13 Cards
+Round 102
+Louise: 39 Cards
+David: 13 Cards
+Louise: 4H
+David: 10D
+David wins round 102
+Louise: 38 Cards
+David: 14 Cards
+Round 103
+Louise: 38 Cards
+David: 14 Cards
+Louise: 7H
+David: 6S
+Louise wins round 103
+Louise: 39 Cards
+David: 13 Cards
+Round 104
+Louise: 39 Cards
+David: 13 Cards
+Louise: 4S
+David: 12H
+David wins round 104
+Louise: 38 Cards
+David: 14 Cards
+Round 105
+Louise: 38 Cards
+David: 14 Cards
+Louise: 13D
+David: 7S
+Louise wins round 105
+Louise: 39 Cards
+David: 13 Cards
+Round 106
+Louise: 39 Cards
+David: 13 Cards
+Louise: 7C
+David: 11C
+David wins round 106
+Louise: 38 Cards
+David: 14 Cards
+Round 107
+Louise: 38 Cards
+David: 14 Cards
+Louise: 1D
+David: 6C
+Louise wins round 107
+Louise: 39 Cards
+David: 13 Cards
+Round 108
+Louise: 39 Cards
+David: 13 Cards
+Louise: 9D
+David: 7D
+Louise wins round 108
+Louise: 40 Cards
+David: 12 Cards
+Round 109
+Louise: 40 Cards
+David: 12 Cards
+Louise: 1C
+David: 10S
+Louise wins round 109
+Louise: 41 Cards
+David: 11 Cards
+Round 110
+Louise: 41 Cards
+David: 11 Cards
+Louise: 2H
+David: 11D
+David wins round 110
+Louise: 40 Cards
+David: 12 Cards
+Round 111
+Louise: 40 Cards
+David: 12 Cards
+Louise: 8H
+David: 2C
+Louise wins round 111
+Louise: 41 Cards
+David: 11 Cards
+Round 112
+Louise: 41 Cards
+David: 11 Cards
+Louise: 6H
+David: 8D
+David wins round 112
+Louise: 40 Cards
+David: 12 Cards
+Round 113
+Louise: 40 Cards
+David: 12 Cards
+Louise: 11S
+David: 8C
+Louise wins round 113
+Louise: 41 Cards
+David: 11 Cards
+Round 114
+Louise: 41 Cards
+David: 11 Cards
+Louise: 3C
+David: 9C
+David wins round 114
+Louise: 40 Cards
+David: 12 Cards
+Round 115
+Louise: 40 Cards
+David: 12 Cards
+Louise: 11H
+David: 4H
+Louise wins round 115
+Louise: 41 Cards
+David: 11 Cards
+New Game
+New Game
+Round 1
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 1C
+Player 2: 10H
+Player 1 wins round 1
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 2
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 9S
+Player 2: 13C
+Player 2 wins round 2
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 3
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 7C
+Player 2: 3C
+Player 1 wins round 3
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 4
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 8D
+Player 2: 9D
+Player 2 wins round 4
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 5
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 4C
+Player 2: 9H
+Player 2 wins round 5
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 6
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 1H
+Player 2: 8H
+Player 1 wins round 6
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 7
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 5C
+Player 2: 6H
+Player 2 wins round 7
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 8
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 5D
+Player 2: 2S
+Player 1 wins round 8
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 9
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 10D
+Player 2: 4H
+Player 1 wins round 9
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 10
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 13H
+Player 2: 10S
+Player 1 wins round 10
+Player 1: 28 Cards
+Player 2: 24 Cards
+Round 11
+Player 1: 28 Cards
+Player 2: 24 Cards
+Player 1: 6D
+Player 2: 6S
+WAR
+Player 1: XX
+Player 1: 10C
+Player 2: XX
+Player 2: 12S
+Player 2 wins the war
+Player 2 wins round 11
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 12
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 11D
+Player 2: 3D
+Player 1 wins round 12
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 13
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 2D
+Player 2: 7D
+Player 2 wins round 13
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 14
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 7S
+Player 2: 7H
+WAR
+Player 1: XX
+Player 1: 11S
+Player 2: XX
+Player 2: 13D
+Player 2 wins the war
+Player 2 wins round 14
+Player 1: 22 Cards
+Player 2: 30 Cards
+Round 15
+Player 1: 22 Cards
+Player 2: 30 Cards
+Player 1: 3S
+Player 2: 1D
+Player 1 wins round 15
+Player 1: 23 Cards
+Player 2: 29 Cards
+Round 16
+Player 1: 23 Cards
+Player 2: 29 Cards
+Player 1: 12C
+Player 2: 12H
+WAR
+Player 1: XX
+Player 1: 2H
+Player 2: XX
+Player 2: 12D
+Player 2 wins the war
+Player 2 wins round 16
+Player 1: 20 Cards
+Player 2: 32 Cards
+Player 2 Wins
+Game Over
+Player 2 Wins
+Player 1: 20 Cards
+Player 2: 32 Cards
+New Game
+New Game
+New Game
+Addition War
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 12C
+Player 1: 1D
+Player 2: 10S
+Player 2: 5C
+Player 2 wins round 1
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 6H
+Player 1: 5D
+Player 2: 4S
+Player 2: 4H
+Player 1 wins round 2
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 8S
+Player 1: 9S
+Player 2: 8C
+Player 2: 10H
+Player 2 wins round 3
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 13C
+Player 1: 2H
+Player 2: 10D
+Player 2: 9C
+Player 2 wins round 4
+Player 1: 22 Cards
+Player 2: 30 Cards
+Player 1: 22 Cards
+Player 2: 30 Cards
+Player 1: 6S
+Player 1: 12H
+Player 2: 12S
+Player 2: 2S
+Player 1 wins round 5
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 4D
+Player 1: 11S
+Player 2: 6C
+Player 2: 6D
+Player 1 wins round 6
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 1H
+Player 1: 9H
+Player 2: 3D
+Player 2: 7S
+WAR
+Player 1: XX
+Player 1: XX
+Player 1: XX
+Player 1: 2C
+Player 1: 2D
+Player 2: XX
+Player 2: XX
+Player 2: XX
+Player 2: 1S
+Player 2: 11D
+Player 2 wins the war
+Player 2 wins round 7
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 7C
+Player 1: 5S
+Player 2: 5H
+Player 2: 1C
+Player 1 wins round 8
+Player 1: 21 Cards
+Player 2: 31 Cards
+Player 1: 21 Cards
+Player 2: 31 Cards
+Player 1: 11H
+Player 1: 3H
+Player 2: 13S
+Player 2: 3S
+Player 2 wins round 9
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 8H
+Player 1: 11C
+Player 2: 4C
+Player 2: 3C
+Player 1 wins round 10
+Player 1: 21 Cards
+Player 2: 31 Cards
+Player 1: 21 Cards
+Player 2: 31 Cards
+Player 1: 8D
+Player 1: 6H
+Player 2: 13D
+Player 2: 12C
+Player 2 wins round 11
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 5D
+Player 1: 4S
+Player 2: 1D
+Player 2: 10S
+Player 2 wins round 12
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 4H
+Player 1: 6S
+Player 2: 5C
+Player 2: 8S
+Player 2 wins round 13
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 12H
+Player 1: 12S
+Player 2: 9S
+Player 2: 8C
+Player 1 wins round 14
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 2S
+Player 1: 4D
+Player 2: 10H
+Player 2: 13C
+Player 2 wins round 15
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 11S
+Player 1: 6C
+Player 2: 2H
+Player 2: 10D
+Player 1 wins round 16
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 6D
+Player 1: 7C
+Player 2: 9C
+Player 2: 1H
+Player 1 wins round 17
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 5S
+Player 1: 5H
+Player 2: 9H
+Player 2: 3D
+Player 2 wins round 18
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 1C
+Player 1: 8H
+Player 2: 7S
+Player 2: 13H
+Player 2 wins round 19
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 11C
+Player 1: 4C
+Player 2: 12D
+Player 2: 9D
+Player 2 wins round 20
+Player 1: 13 Cards
+Player 2: 39 Cards
+Player 1: 13 Cards
+Player 2: 39 Cards
+Player 1: 3C
+Player 1: 12H
+Player 2: 2C
+Player 2: 2D
+Player 1 wins round 21
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 15 Cards
+Player 2: 37 Cards
+Player 1: 12S
+Player 1: 9S
+Player 2: 10C
+Player 2: 7H
+Player 1 wins round 22
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 8C
+Player 1: 11S
+Player 2: 7D
+Player 2: 1S
+Player 1 wins round 23
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 19 Cards
+Player 2: 33 Cards
+Player 1: 6C
+Player 1: 2H
+Player 2: 11D
+Player 2: 11H
+Player 2 wins round 24
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 17 Cards
+Player 2: 35 Cards
+Player 1: 10D
+Player 1: 6D
+Player 2: 3H
+Player 2: 13S
+WAR
+Player 1: XX
+Player 1: XX
+Player 1: XX
+Player 1: 3C
+Player 1: 12H
+Player 2: XX
+Player 2: XX
+Player 2: XX
+Player 2: 13D
+Player 2: 12C
+Player 2 wins the war
+Player 2 wins round 25
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 2C
+Player 1: 2D
+Player 2: 5D
+Player 2: 4S
+Player 2 wins round 26
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 12S
+Player 1: 9S
+Player 2: 1D
+Player 2: 10S
+Player 1 wins round 27
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10C
+Player 1: 7H
+Player 2: 4H
+Player 2: 6S
+Player 1 wins round 28
+Player 1: 12 Cards
+Player 2: 40 Cards
+Player 1: 12 Cards
+Player 2: 40 Cards
+Player 1: 8C
+Player 1: 11S
+Player 2: 5C
+Player 2: 8S
+Player 1 wins round 29
+Player 1: 14 Cards
+Player 2: 38 Cards
+Player 1: 14 Cards
+Player 2: 38 Cards
+Player 1: 7D
+Player 1: 1S
+Player 2: 2S
+Player 2: 4D
+Player 1 wins round 30
+Player 1: 16 Cards
+Player 2: 36 Cards
+Player 1: 16 Cards
+Player 2: 36 Cards
+Player 1: 12S
+Player 1: 9S
+Player 2: 10H
+Player 2: 13C
+Player 2 wins round 31
+Player 1: 14 Cards
+Player 2: 38 Cards
+Player 1: 14 Cards
+Player 2: 38 Cards
+Player 1: 1D
+Player 1: 10S
+Player 2: 5S
+Player 2: 5H
+Player 1 wins round 32
+Player 1: 16 Cards
+Player 2: 36 Cards
+Player 1: 16 Cards
+Player 2: 36 Cards
+Player 1: 10C
+Player 1: 7H
+Player 2: 9H
+Player 2: 3D
+Player 1 wins round 33
+Player 1: 18 Cards
+Player 2: 34 Cards
+Player 1: 18 Cards
+Player 2: 34 Cards
+Player 1: 4H
+Player 1: 6S
+Player 2: 1C
+Player 2: 8H
+Player 1 wins round 34
+Player 1: 20 Cards
+Player 2: 32 Cards
+Player 1: 20 Cards
+Player 2: 32 Cards
+Player 1: 8C
+Player 1: 11S
+Player 2: 7S
+Player 2: 13H
+Player 2 wins round 35
+Player 1: 18 Cards
+Player 2: 34 Cards
+Player 1: 18 Cards
+Player 2: 34 Cards
+Player 1: 5C
+Player 1: 8S
+Player 2: 11C
+Player 2: 4C
+Player 2 wins round 36
+Player 1: 16 Cards
+Player 2: 36 Cards
+Player 1: 16 Cards
+Player 2: 36 Cards
+Player 1: 7D
+Player 1: 1S
+Player 2: 12D
+Player 2: 9D
+Player 2 wins round 37
+Player 1: 14 Cards
+Player 2: 38 Cards
+Player 1: 14 Cards
+Player 2: 38 Cards
+Player 1: 2S
+Player 1: 4D
+Player 2: 6C
+Player 2: 2H
+Player 2 wins round 38
+Player 1: 12 Cards
+Player 2: 40 Cards
+Player 1: 12 Cards
+Player 2: 40 Cards
+Player 1: 1D
+Player 1: 10S
+Player 2: 11D
+Player 2: 11H
+Player 2 wins round 39
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 5S
+Player 1: 5H
+Player 2: 10D
+Player 2: 6D
+Player 2 wins round 40
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 10C
+Player 1: 7H
+Player 2: 3H
+Player 2: 13S
+Player 1 wins round 41
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 9H
+Player 1: 3D
+Player 2: 7C
+Player 2: 9C
+Player 2 wins round 42
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 4H
+Player 1: 6S
+Player 2: 1H
+Player 2: 3C
+Player 1 wins round 43
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 1C
+Player 1: 8H
+Player 2: 12H
+Player 2: 3S
+Player 2 wins round 44
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 10C
+Player 1: 7H
+Player 2: 8D
+Player 2: 6H
+Player 1 wins round 45
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 3H
+Player 1: 13S
+Player 2: 13D
+Player 2: 12C
+Player 2 wins round 46
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 4H
+Player 1: 6S
+Player 2: 2C
+Player 2: 2D
+Player 1 wins round 47
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 10 Cards
+Player 2: 42 Cards
+Player 1: 1H
+Player 1: 3C
+Player 2: 5D
+Player 2: 4S
+Player 2 wins round 48
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 8 Cards
+Player 2: 44 Cards
+Player 1: 10C
+Player 1: 7H
+Player 2: 12S
+Player 2: 9S
+Player 2 wins round 49
+Player 1: 6 Cards
+Player 2: 46 Cards
+Player 1: 6 Cards
+Player 2: 46 Cards
+Player 1: 8D
+Player 1: 6H
+Player 2: 10H
+Player 2: 13C
+Player 2 wins round 50
+Player 1: 4 Cards
+Player 2: 48 Cards
+Player 1: 4 Cards
+Player 2: 48 Cards
+Player 1: 4H
+Player 1: 6S
+Player 2: 8C
+Player 2: 11S
+Player 2 wins round 51
+Player 1: 2 Cards
+Player 2: 50 Cards
+Player 1: 2 Cards
+Player 2: 50 Cards
+Player 1: 2C
+Player 1: 2D
+Player 2: 7S
+Player 2: 13H
+Player 2 wins round 52
+Player 1: 0 Cards
+Player 2: 52 Cards
+Player 2 Wins
+Player 2 Wins
+Player 1: 0 Cards
+Player 2: 52 Cards
+Player 2 Wins
+Player 2 Wins
+Player 1: 0 Cards
+Player 2: 52 Cards
+Player 2 Wins
+Player 2 Wins
+Player 1: 0 Cards
+Player 2: 52 Cards

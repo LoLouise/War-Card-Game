@@ -1,0 +1,43 @@
+
+
+
+Round 1
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 10D
+Player 2: 12C
+Player 2 wins round 1
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 2
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 10S
+Player 2: 13C
+Player 2 wins round 2
+Player 1: 24 Cards
+Player 2: 28 Cards
+Round 3
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 13S
+Player 2: 11D
+Player 1 wins round 3
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 4
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 3D
+Player 2: 4C
+Player 2 wins round 4
+Player 1: 24 Cards
+Player 2: 28 Cards
+Round 5
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 10C
+Player 2: 8H
+Player 1 wins round 5
+Player 1: 25 Cards
+Player 2: 27 Cards

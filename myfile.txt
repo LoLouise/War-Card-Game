@@ -1,0 +1,379 @@
+New Game
+Round 1
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 5S
+Player 2: 7D
+Player 2 wins round 1
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 2
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 10S
+Player 2: 9C
+Player 1 wins round 2
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 3
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 11H
+Player 2: 7C
+Player 1 wins round 3
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 4
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 1D
+Player 2: 2S
+Player 1 wins round 4
+Player 1: 28 Cards
+Player 2: 24 Cards
+Round 5
+Player 1: 28 Cards
+Player 2: 24 Cards
+Player 1: 2C
+Player 2: 12C
+Player 2 wins round 5
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 6
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 4S
+Player 2: 8D
+Player 2 wins round 6
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 7
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 2H
+Player 2: 8H
+Player 2 wins round 7
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 8
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 1H
+Player 2: 6D
+Player 1 wins round 8
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 9
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 7S
+Player 2: 13D
+Player 2 wins round 9
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 10
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 10D
+Player 2: 11C
+Player 2 wins round 10
+Player 1: 24 Cards
+Player 2: 28 Cards
+Round 11
+Player 1: 24 Cards
+Player 2: 28 Cards
+Player 1: 11S
+Player 2: 6C
+Player 1 wins round 11
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 12
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 1S
+Player 2: 13S
+Player 1 wins round 12
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 13
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 4D
+Player 2: 2D
+Player 1 wins round 13
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 14
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 4H
+Player 2: 6S
+Player 2 wins round 14
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 15
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 12D
+Player 2: 12H
+Game Over
+Player 1: XX
+Player 1: 12S
+Player 2: XX
+Player 2: 5H
+Player 1 wins the war
+Player 1 wins round 15
+Player 1: 29 Cards
+Player 2: 23 Cards
+Round 16
+Player 1: 29 Cards
+Player 2: 23 Cards
+Player 1: 1C
+Player 2: 5C
+Player 1 wins round 16
+Player 1: 30 Cards
+Player 2: 22 Cards
+Round 17
+Player 1: 30 Cards
+Player 2: 22 Cards
+Player 1: 3D
+Player 2: 3C
+Game Over
+Player 1: XX
+Player 1: 11D
+Player 2: XX
+Player 2: 9D
+Player 1 wins the war
+Player 1 wins round 17
+Player 1: 33 Cards
+Player 2: 19 Cards
+Round 18
+Player 1: 33 Cards
+Player 2: 19 Cards
+Player 1: 13H
+Player 2: 8S
+Player 1 wins round 18
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 19
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 10C
+Player 2: 5D
+Player 1 wins round 19
+Player 1: 35 Cards
+Player 2: 17 Cards
+Round 20
+Player 1: 35 Cards
+Player 2: 17 Cards
+Player 1: 9S
+Player 2: 13C
+Player 2 wins round 20
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 21
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 8C
+Player 2: 9H
+Player 2 wins round 21
+Player 1: 33 Cards
+Player 2: 19 Cards
+Round 22
+Player 1: 33 Cards
+Player 2: 19 Cards
+Player 1: 6H
+Player 2: 7H
+Player 2 wins round 22
+Player 1: 32 Cards
+Player 2: 20 Cards
+Round 23
+Player 1: 32 Cards
+Player 2: 20 Cards
+Player 1: 10S
+Player 2: 5S
+Player 1 wins round 23
+Player 1: 33 Cards
+Player 2: 19 Cards
+Round 24
+Player 1: 33 Cards
+Player 2: 19 Cards
+Player 1: 9C
+Player 2: 7D
+Player 1 wins round 24
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 25
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 11H
+Player 2: 2C
+Player 1 wins round 25
+Player 1: 35 Cards
+Player 2: 17 Cards
+Round 26
+Player 1: 35 Cards
+Player 2: 17 Cards
+Player 1: 7C
+Player 2: 12C
+Player 2 wins round 26
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 27
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 1D
+Player 2: 4S
+Player 1 wins round 27
+Player 1: 35 Cards
+Player 2: 17 Cards
+Round 28
+Player 1: 35 Cards
+Player 2: 17 Cards
+Player 1: 2S
+Player 2: 8D
+Player 2 wins round 28
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 29
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 1H
+Player 2: 2H
+Player 1 wins round 29
+Player 1: 35 Cards
+Player 2: 17 Cards
+Round 30
+Player 1: 35 Cards
+Player 2: 17 Cards
+Player 1: 6D
+Player 2: 8H
+Player 2 wins round 30
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 31
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 11S
+Player 2: 7S
+Player 1 wins round 31
+Player 1: 35 Cards
+Player 2: 17 Cards
+Round 32
+Player 1: 35 Cards
+Player 2: 17 Cards
+Player 1: 6C
+Player 2: 13D
+Player 2 wins round 32
+Player 1: 34 Cards
+Player 2: 18 Cards
+Round 33
+Player 1: 34 Cards
+Player 2: 18 Cards
+Player 1: 1S
+Player 2: 10D
+Player 1 wins round 33
+Player 1: 35 Cards
+Player 2: 17 Cards
+Round 34
+Player 1: 35 Cards
+Player 2: 17 Cards
+Player 1: 13S
+Player 2: 11C
+Player 1 wins round 34
+Player 1: 36 Cards
+Player 2: 16 Cards
+Round 35
+Player 1: 36 Cards
+Player 2: 16 Cards
+Player 1: 4D
+Player 2: 4H
+Game Over
+Player 1: XX
+Player 1: 12D
+Player 2: XX
+Player 2: 9S
+Player 1 wins the war
+Player 1 wins round 35
+Player 1: 39 Cards
+Player 2: 13 Cards
+Player 1 Wins
+Game Over
+Player 1 Wins
+Player 1: 39 Cards
+Player 2: 13 Cards
+Player 1 Wins
+Game Over
+Player 1 Wins
+Player 1: 39 Cards
+Player 2: 13 Cards
+Player 1 Wins
+Game Over
+Player 1 Wins
+Player 1: 39 Cards
+Player 2: 13 Cards
+New Game
+Round 1
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 4H
+Player 2: 12S
+Player 2 wins round 1
+Player 1: 25 Cards
+Player 2: 27 Cards
+Round 2
+Player 1: 25 Cards
+Player 2: 27 Cards
+Player 1: 1D
+Player 2: 13D
+Player 1 wins round 2
+Player 1: 26 Cards
+Player 2: 26 Cards
+Round 3
+Player 1: 26 Cards
+Player 2: 26 Cards
+Player 1: 6C
+Player 2: 3C
+Player 1 wins round 3
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 4
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 4D
+Player 2: 2C
+Player 1 wins round 4
+Player 1: 28 Cards
+Player 2: 24 Cards
+Round 5
+Player 1: 28 Cards
+Player 2: 24 Cards
+Player 1: 10D
+Player 2: 6D
+Player 1 wins round 5
+Player 1: 29 Cards
+Player 2: 23 Cards
+Round 6
+Player 1: 29 Cards
+Player 2: 23 Cards
+Player 1: 2D
+Player 2: 8D
+Player 2 wins round 6
+Player 1: 28 Cards
+Player 2: 24 Cards
+Round 7
+Player 1: 28 Cards
+Player 2: 24 Cards
+Player 1: 11S
+Player 2: 13H
+Player 2 wins round 7
+Player 1: 27 Cards
+Player 2: 25 Cards
+Round 8
+Player 1: 27 Cards
+Player 2: 25 Cards
+Player 1: 11D
+Player 2: 12C
+Player 2 wins round 8
+Player 1: 26 Cards
+Player 2: 26 Cards
